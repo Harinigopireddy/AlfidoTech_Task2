@@ -1,0 +1,43 @@
+# AlfidoTech_Task2
+
+****  Sales Performance Analysis & Business Intelligence Dashboard
+An end-to-end Data Analytics & Business Intelligence project that analyzes retail sales data using Python and Power BI to uncover trends, patterns, and actionable business insights.
+
+🔍 Project Overview
+
+This project focuses on transforming raw sales data into meaningful insights through data cleaning, exploratory data analysis (EDA), feature engineering, and interactive dashboarding.
+The final output includes professional Power BI dashboards designed for executives, managers, and business stakeholders to support data-driven decision-making.
+
+🛠️ Tools & Technologies
+Python (Pandas, NumPy)
+Data Visualization (Matplotlib, Seaborn)
+Power BI (Dashboarding & Reporting)
+Google Colab / Jupyter Notebook
+GitHub (Version Control & Portfolio)
+
+📌 Key Features
+Data cleaning and preprocessing (handling missing values, duplicates, and date formats)
+Feature engineering (Year, Month, time-based attributes)
+Exploratory Data Analysis to identify trends, seasonality, and performance drivers
+Development of 3 professional Power BI dashboards:
+Executive Overview Dashboard
+Sales Analysis Dashboard
+Customer Insights Dashboard
+Sales forecasting to predict future trends
+Interactive slicers, filters, and visuals for better exploration
+
+📈 Dashboards Included
+
+🔹 Executive Overview
+Total Sales, Total Orders, Average Order Value
+Monthly sales trends
+Top-performing categories and regions
+
+🔹 Sales Analysis
+Region vs Category heatmap
+Segment-wise and shipment-based analysis
+Sales vs Quantity insights
+
+Customer segmentation
+Top customers by revenue
+Regional customer distribution and buying behavior
